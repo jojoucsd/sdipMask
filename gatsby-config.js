@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `SdiP Mask`,
+    title: `SdiP`,
     description: `sdip mask infomative webpage`,
     author: `@linglu`,
   },
